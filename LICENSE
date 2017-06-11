@@ -170,19 +170,19 @@ Library.
 Pull Request will be authorized, prior description of goals for the request. We consider mandatory following
 additional clauses :
    
-   * Redistributions in binary form must reproduce a specific copyright and trademark 
-   that will be provided on the request, and this list of conditions and the following 
-   disclaimer in the documentation and/or other materials provided with the distribution, 
-   any commercial or IT challenge use has denied without specific prior written permission.
+   a) Redistributions in binary form must reproduce a specific copyright and trademark 
+      that will be provided on the request, and this list of conditions and the following 
+      disclaimer in the documentation and/or other materials provided with the distribution, 
+      any commercial or IT challenge use has denied without specific prior written permission.
 
-  * Neither the name of the copyright holder nor the names of its
-    contributors may be used to endorse or promote products derived from
-    this software without specific prior written permission.
+   b) Neither the name of the copyright holder nor the names of its
+     contributors may be used to endorse or promote products derived from
+     this software without specific prior written permission.
 
-  * This product is subjected to license regulamentations, that will be evaluated by
-    authors case by case and use by use.
+   c) This product is subjected to license regulamentations, that will be evaluated by
+      authors case by case and use by use.
 
-  * Any extension or modification of the following code is forbidden, we can identify
-    exceptions, by specific prior written permission, as well as pull requests.
+   d) Any extension or modification of the following code is forbidden, the authors can identify
+      exceptions, according to prior written permission, as well as for pull requests.
     
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
